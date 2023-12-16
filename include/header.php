@@ -166,7 +166,7 @@
 									</span>
 								</span>
 							</button>
-							<a class="navbar-brand flex relative" href="./index-start-hub-4.html">
+							<a class="navbar-brand flex relative" href="./index.php">
 								<span class="navbar-brand-inner">
 									<img class="logo-default" src="dark-logo.svg" alt="Starthub Four">
 								</span>

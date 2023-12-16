@@ -852,8 +852,8 @@
                                                         </p>
 													</div>
 												</div>
-												<a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
-													<span data-text="Nos valeurs" class="btn-txt">Nos valeurs </span>
+												<a href="#" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
+													<span data-text="Nos valeurs" class="btn-txt">Book Now </span>
 													<span class="btn-icon">
 														<i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
 													</span>
@@ -901,8 +901,8 @@
                                                         </p>
 													</div>
 												</div>
-												<a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
-													<span data-text="Nos valeurs" class="btn-txt">Nos valeurs </span>
+												<a href="#" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
+													<span data-text="Nos valeurs" class="btn-txt">Book Now</span>
 													<span class="btn-icon">
 														<i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
 													</span>
