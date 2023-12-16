@@ -71,7 +71,7 @@ E St - opposite BurJuman, Center Point - Dubai UA</p>
                                     </div>
                                 </div>
                                 <div class="ld-fancy-heading relative">
-                                    <p class="ld-fh-element m-0 inline-block relative text-14 text-black-60">© Developed By <a href="http://endeavourdigital.in" target="_blank" rel="noopener noreferrer">Endeavour Digital</a>.</p>
+                                    <p class="ld-fh-element m-0 mt-15 inline-block relative text-14 text-black-60">© Developed & Designed By <a href="http://endeavourdigital.in" target="_blank" rel="noopener noreferrer">Endeavour Digital</a>.</p>
                                 </div>
 							</div>
 							<div class="col col-8 col-md-8 pt-20 pb-35 sm:pt-0">

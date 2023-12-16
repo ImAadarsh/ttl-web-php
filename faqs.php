@@ -58,7 +58,7 @@
                                         <div class="accordion-heading" role="tab" id="heading-tab-1">
                                             <h4 class="accordion-title">
                                                 <a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-1" aria-expanded="true" aria-controls="collapse-question-tab-1">
-                                                    <span class="accordion-title-txt">End-to-end encryption for iOS Devices</span>
+                                                    <span class="accordion-title-txt">What is THE LEISURE LEAGUE TOURISM?</span>
                                                     <span class="text-22 text-brown-500 accordion-expander">
                                                         <i class="lqd-icn-ess icon-ion-ios-add"></i>
                                                         <i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -67,14 +67,14 @@
                                             </h4>
                                         </div>
                                         <div id="collapse-question-tab-1" class="accordion-collapse collapse show" role="tabpanel" aria-labelledby="heading-tab-1" data-bs-parent="#accordion-question-parent-1">
-                                            <div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
+                                            <div class="text-15 accordion-content">THE LEISURE LEAGUE TOURISM is a leading travel agency dedicated to fulfilling your travel dreams. We specialize in crafting meticulously curated holiday packages to showcase the stunning beauty of the UAE and other exotic destinations.</div>
                                         </div>
                                     </div>
                                     <div class="accordion-item panel mb-20">
                                         <div class="accordion-heading" role="tab" id="heading-tab-2">
                                             <h4 class="accordion-title">
                                                 <a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-2" aria-expanded="false" aria-controls="collapse-question-tab-2">
-                                                    <span class="accordion-title-txt">Sending media, location and contacts</span>
+                                                    <span class="accordion-title-txt">What sets THE LEISURE LEAGUE TOURISM apart from other travel agencies?</span>
                                                     <span class="text-22 text-brown-500 accordion-expander">
                                                         <i class="lqd-icn-ess icon-ion-ios-add"></i>
                                                         <i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -83,7 +83,7 @@
                                             </h4>
                                         </div>
                                         <div id="collapse-question-tab-2" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-2" data-bs-parent="#accordion-question-parent-1">
-                                            <div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
+                                            <div class="text-15 accordion-content">Our commitment to providing a seamless holiday experience distinguishes us as a leading tour operator in the ever-expanding travel industry. We believe in the transformative power of travel and strive to make your journeys enriching and unforgettable. </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item panel mb-20">
@@ -106,7 +106,7 @@
                                         <div class="accordion-heading" role="tab" id="heading-tab-4">
                                             <h4 class="accordion-title">
                                                 <a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-4" aria-expanded="false" aria-controls="collapse-question-tab-4">
-                                                    <span class="accordion-title-txt">Calling unavailable in some countries</span>
+                                                    <span class="accordion-title-txt">What types of holiday packages do you offer?</span>
                                                     <span class="text-22 text-brown-500 accordion-expander">
                                                         <i class="lqd-icn-ess icon-ion-ios-add"></i>
                                                         <i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -115,7 +115,7 @@
                                             </h4>
                                         </div>
                                         <div id="collapse-question-tab-4" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-4" data-bs-parent="#accordion-question-parent-1">
-                                            <div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
+                                            <div class="text-15 accordion-content">We offer a diverse range of holiday packages, carefully designed to cater to various preferences. Whether you're interested in exploring the mesmerizing landscapes of the UAE or venturing into far-off lands, we have the perfect package for you. </div>
                                         </div>
                                     </div>
                                 </div>
@@ -126,7 +126,7 @@
                                         <div class="accordion-heading" role="tab" id="heading-tab-5">
                                             <h4 class="accordion-title">
                                                 <a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-5" aria-expanded="false" aria-controls="collapse-question-tab-5">
-                                                    <span class="accordion-title-txt">Google mobile can monetize your app</span>
+                                                    <span class="accordion-title-txt">Can I customize my holiday package?</span>
                                                     <span class="text-22 text-brown-500 accordion-expander">
                                                         <i class="lqd-icn-ess icon-ion-ios-add"></i>
                                                         <i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -135,14 +135,14 @@
                                             </h4>
                                         </div>
                                         <div id="collapse-question-tab-5" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-5" data-bs-parent="#accordion-question-parent-2">
-                                            <div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
+                                            <div class="text-15 accordion-content">Absolutely! We understand that every traveler is unique. You can work with our travel experts to customize your holiday package, ensuring it aligns perfectly with your preferences and interests.</div>
                                         </div>
                                     </div>
                                     <div class="accordion-item panel mb-20">
                                         <div class="accordion-heading" role="tab" id="heading-tab-6">
                                             <h4 class="accordion-title">
                                                 <a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-6" aria-expanded="false" aria-controls="collapse-question-tab-6">
-                                                    <span class="accordion-title-txt">How to restore your chat history?</span>
+                                                    <span class="accordion-title-txt">What inspires THE LEISURE LEAGUE TOURISM to cater to Dubai travelers?</span>
                                                     <span class="text-22 text-brown-500 accordion-expander">
                                                         <i class="lqd-icn-ess icon-ion-ios-add"></i>
                                                         <i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -151,14 +151,14 @@
                                             </h4>
                                         </div>
                                         <div id="collapse-question-tab-6" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-6" data-bs-parent="#accordion-question-parent-2">
-                                            <div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
+                                            <div class="text-15 accordion-content">The growing passion among Dubai travelers to explore new destinations motivates us. We are inspired by the dynamic desires of our clients, and our vision is to provide exceptional travel experiences that go beyond their imagination. </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item panel">
                                         <div class="accordion-heading" role="tab" id="heading-tab-7">
                                             <h4 class="accordion-title">
                                                 <a class="collapsed text-16 leading-2em bg-gray-100 " role="button" data-bs-toggle="collapse" href="#collapse-question-tab-7" aria-expanded="false" aria-controls="collapse-question-tab-7">
-                                                    <span class="accordion-title-txt">Problems sending or receiving messages</span>
+                                                    <span class="accordion-title-txt">How does THE LEISURE LEAGUE TOURISM contribute to the travel industry?</span>
                                                     <span class="text-22 text-brown-500 accordion-expander">
                                                         <i class="lqd-icn-ess icon-ion-ios-add"></i>
                                                         <i class="lqd-icn-ess icon-ion-ios-remove"></i>
@@ -167,7 +167,7 @@
                                             </h4>
                                         </div>
                                         <div id="collapse-question-tab-7" class="accordion-collapse collapse " role="tabpanel" aria-labelledby="heading-tab-7" data-bs-parent="#accordion-question-parent-2">
-                                            <div class="text-15 accordion-content">Content-focused grid designs, unique social elements, post-sharing function, author exposure, sticky newsletter. </div>
+                                            <div class="text-15 accordion-content">We contribute to the travel industry by continuously striving to meet and exceed the expectations of our clients. Our goal is to be at the forefront of the travel sector, providing innovative and enriching travel solutions.</div>
                                         </div>
                                     </div>
                                 </div>
