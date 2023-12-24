@@ -18,8 +18,8 @@
 					<div class="container titlebar-container">
 						<div class="row titlebar-container justify-center">
 							<div class="col titlebar-col col-xl-6 col-lg-8 col-12 text-center text-gray-400">
-								<h1>Visa's </h1>
-								<p class="leading-20 text-gray-400">Know more about your Eligibility.</p>
+								<h1>Curate Your Perfect Vacation </h1>
+								<p class="leading-20 text-gray-400">Enter Your Details to get started</p>
 							</div>
 						</div>
 					</div>
@@ -35,31 +35,10 @@
 			<section class="lqd-section reserve-form pt-55 pb-50 transition-all bg-no-repeat" style="background-image: url(./assets/images/demo/restaurant/form-reserve/bg-5.png);" data-custom-animations="true" data-ca-options='{"addPerspective": false, "animationTarget": ".animation-element", "initValues" :{"x": "-5px", "y": "10px", "opacity" : 0} , "animations" :{"x": "0px", "y": "0px", "opacity" : 1}}'>
 				<div class="container flex items-center justify-center p-0">
 					<div class="w-full flex flex-wrap rounded-10 bg-yellow-100 items-center">
-						<div class="w-40percent py-35 px-30 sm:w-full">
-							<div class="w-full relative flex flex-col bg-center bg-cover rounded-10 text-center pt-430 pb-50 px-15 animation-element" style="background-image: url(./assets/images/passport.png);">
-								<div class="background-overlay opacity-100 rounded-10 bg-transparent" style="background-image: linear-gradient(0deg, #0E0B07 4%, #0E0B0700 35%);"></div>
-								<div class="ld-fancy-heading relative">
-									<p class="ld-fh-element m-0 text-11 text-white font-semibold uppercase tracking-2">Phone: +971-42252333</p>
-								</div>
-								<div class="ld-fancy-heading relative">
-									<p class="ld-fh-element mb-2/5em text-11 text-white font-semibold uppercase tracking-2">Address: Office # 75, 4th floor, Al Asharam Building,
-										D 37 street, Bur Dubai,UAE</p>
-								</div>
-								<div class="w-auto">
-									<a href="https://www.google.com/maps/place/Bur+Dubai+-+Dubai+-+United+Arab+Emirates/@25.2351007,55.2333304,13z/data=!3m1!4b1!4m10!1m2!2m1!1sOffice+%23+75,+4th+floor,+Al+Ashram+Building,+D+37+street,+Bur+Dubai,UAE!3m6!1s0x3e5f43399f217b61:0x5fd70f3402712a8b!8m2!3d25.2145565!4d55.3032906!15sCkZPZmZpY2UgIyA3NSwgNHRoIGZsb29yLCBBbCBBc2hyYW0gQnVpbGRpbmcsIEQgMzcgc3RyZWV0LCBCdXIgRHViYWksVUFFkgEPY29sbG9xdWlhbF9hcmVh4AEA!16s%2Fg%2F11bc62cxkc?entry=ttu" class="font-semibold uppercase leading-1/6em tracking-2 text-11 btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-white" data-localscroll="true">
-										<span class="btn-txt" data-text="Show on Google Maps">Show on Google Maps</span>
-										<span class="btn-icon text-white -mr-10">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-												<path d="M565.6 36.2C572.1 40.7 576 48.1 576 56V392c0 10-6.2 18.9-15.5 22.4l-168 64c-5.2 2-10.9 2.1-16.1 .3L192.5 417.5l-160 61c-7.4 2.8-15.7 1.8-22.2-2.7S0 463.9 0 456V120c0-10 6.1-18.9 15.5-22.4l168-64c5.2-2 10.9-2.1 16.1-.3L383.5 94.5l160-61c7.4-2.8 15.7-1.8 22.2 2.7zM48 136.5V421.2l120-45.7V90.8L48 136.5zM360 422.7V137.3l-144-48V374.7l144 48zm48-1.5l120-45.7V90.8L408 136.5V421.2z" />
-											</svg>
-										</span>
-									</a>
-								</div>
-							</div>
-						</div>
-						<div class="w-60percent p-60 text-center sm:w-full module-content" data-custom-animations="true" data-ca-options='{"addPerspective": false, "animationTarget": ".animation-element, .ld-fancy-heading", "startDelay" : 200, "initValues" :{"x": "-10px", "y": "10px", "opacity" : 0} , "animations" :{"x": "0px", "y": "0px", "opacity" : 1}}'>
+						
+						<div class="w-full p-60 text-center sm:w-full module-content" data-custom-animations="true" data-ca-options='{"addPerspective": false, "animationTarget": ".animation-element, .ld-fancy-heading", "startDelay" : 200, "initValues" :{"x": "-10px", "y": "10px", "opacity" : 0} , "animations" :{"x": "0px", "y": "0px", "opacity" : 1}}'>
 							<div class="ld-fancy-heading border-top border-bottom border-black mb-35">
-								<h3 class="ld-fh-element py-1/5em m-0 text-13 font-medium uppercase tracking-1">Know your Eligibility</h3>
+								<h3 class="ld-fh-element py-1/5em m-0 text-13 font-medium uppercase tracking-1">Book Your Tickets</h3>
 							</div>
 							
 							<div class="lqd-contact-form lqd-contact-form-inputs-underlined lqd-contact-form-button-block lqd-contact-form-button-md lqd-contact-form-button-border-none lqd-contact-form-inputs-lg mb-30 animation-element">
@@ -67,7 +46,7 @@
 									<div class="screen-reader-response">
 										<p role="status" aria-live="polite" aria-atomic="true"></p>
 									</div>
-									<form enctype="multipart/form-data" action="controllers/visa_form.php" method="POST" class="lqd-cf-form" novalidate="novalidate" data-status="init">
+									<form enctype="multipart/form-data" action="controllers/getstarted.php" method="POST"  novalidate="novalidate" data-status="init">
 										<div class="w-full relative flex">
 										<div class="lqd-cf-response-output"></div>
 											<span class="lqd-form-control-wrap w-full" data-name="name">
@@ -78,36 +57,17 @@
 										<div class="w-full relative flex">
 											
 											<span class="lqd-form-control-wrap w-full" data-name="mobile">
-												<input type="tel" name="mobile" value="" size="40" class="lqd-form-control bg-transparent border-black text-black pl-30" aria-required="true" aria-invalid="false" placeholder="Your Mobile Number">
+												<input type="email" name="email" value="" size="40" class="lqd-form-control bg-transparent border-black text-black pl-30" aria-required="true" aria-invalid="false" placeholder="Your Email ">
 											</span>
 										</div>
 										<div class="w-full relative flex">
 											
-											<span class="lqd-form-control-wrap w-full" data-name="dob">
-												<input type="text" name="dob" value="" size="40" class="lqd-form-control bg-transparent border-black text-black pl-30" aria-required="true" aria-invalid="false" placeholder="Date of birth">
-											</span>
-										</div>
-										<div class="w-full relative flex">
-											
-											<span class="lqd-form-control-wrap w-full" data-name="text">
-												<input type="text" name="expiry_passport" value="" size="40" class="lqd-form-control bg-transparent border-black text-black pl-30" aria-required="true" aria-invalid="false" placeholder="Expiry Date of passport">
-											</span>
-										</div>
-										<div class="w-full relative flex">
-											
-											<span class="lqd-form-control-wrap w-full" data-name="text">
-												<input type="text" name="nationality" value="" size="40" class="lqd-form-control bg-transparent border-black text-black pl-30" aria-required="true" aria-invalid="false" placeholder="Nationality">
-											</span>
-										</div>
-                                        <p>Or Please Share Your Passport</p><br>
-                                        <div class="w-full relative flex">
-											
-											<span class="lqd-form-control-wrap w-full" data-name="text">
-												<input required type="file" name="visa_file" class="bg-transparent border-black text-black pl-30" >
+											<span class="lqd-form-control-wrap w-full" data-name="mobile">
+												<input type="tel" name="phone" value="" size="40" class="lqd-form-control bg-transparent border-black text-black pl-30" aria-required="true" aria-invalid="false" placeholder="Your Mobile Number">
 											</span>
 										</div>
 										<p>
-											<input type="submit" value="Check Your Eligibility" class="lqd-form-control has-spinner text-white bg-dark rounded-4 mt-20 ont-semibold uppercase leading-1/6em tracking-2 text-11 hover:bg-secondary">
+											<input type="submit" value="Next" name="login" class="has-spinner text-white bg-dark rounded-4 mt-20 ont-semibold uppercase leading-1/6em tracking-2 text-11 hover:bg-secondary">
 										</p>
 									</form>
 								</div>

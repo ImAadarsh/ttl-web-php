@@ -14,7 +14,7 @@
 E St - opposite BurJuman, Center Point - Dubai UA</p>
 								</div>
 								<div class="ld-sf relative ld-sf--input-solid ld-sf--button-solid ld-sf--size-sm ld-sf--circle ld-sf--border-none ld-sf--input-shadow ld-sf--button-show ld-sf--button-inside">
-									<form class="relative" method="post" action="#">
+									<form class="relative" enctype="multipart/form-data" method="post" action="controllers/email.php">
 										<p class="relative">
 											<input type="email" class="text-13 block w-full rounded-2 text-slate-300 bg-white" name="email" placeholder="Enter your email address">
 										</p>
@@ -201,6 +201,7 @@ E St - opposite BurJuman, Center Point - Dubai UA</p>
 				<button class="lity-close" type="button" aria-label="Close (Press escape to close)" data-lity-close>&times;</button>
 			</div>
 		</div>
+
 
 	</body>
 

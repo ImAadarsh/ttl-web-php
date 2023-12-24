@@ -59,8 +59,8 @@
 									<div class="screen-reader-response">
 										<p role="status" aria-live="polite" aria-atomic="true"></p>
 									</div>
-									<form action="./assets/php/mailer.php" method="post" class="lqd-cf-form"
-										novalidate="novalidate" data-status="init">
+									<form action="controllers/contact.php" method="POST" class="lqd-cf-form"
+										 enctype="multipart/form-data" >
 										<div class="row -mr-15 -ml-15">
 											<div class="col col-12 col-md-6 px-15">
 												<p class="m-0 text-black-30 text-12">Your name</p>
@@ -92,7 +92,7 @@
 													<span class="lqd-form-control-wrap tel">
 														<input
 															class="bg-transparent border-black-10 text-black text-14 font-normal"
-															type="tel" name="tel" value="" size="40"
+															type="tel" name="mobile" value="" size="40"
 															aria-invalid="false" placeholder="Phone number">
 													</span>
 												</p>
@@ -103,7 +103,7 @@
 													<span class="lqd-form-control-wrap text">
 														<input
 															class="bg-transparent border-black-10 text-black text-14 font-normal"
-															type="text" name="project-name" value="" size="40"
+															type="text" name="subject" value="" size="40"
 															aria-required="true" aria-invalid="false"
 															placeholder="Subject">
 													</span>
@@ -136,7 +136,7 @@
 												</span>
 											</div>
 											<div class="col col-12 px-15">
-												<input type="submit" value="Send message"
+												<input name="contact" type="submit" value="Send message"
 													class="lqd-cf-form-control lqd-cf-submit border-none text-white bg-primary hover:bg-primary">
 											</div>
 										</div>
